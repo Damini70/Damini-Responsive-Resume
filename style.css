@@ -5,5 +5,20 @@
     list-style: none;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+.main-content{
+    grid-template-columns:1fr 2fr;
+    min-height: 1000px;
+}
 
+.left-section{
+    grid-column: span 1;
+    background-color: maroon;
+}
+.right-section{
+    grid-column: 1/span 2;
+    width: 90%;
+    background-color: grey;
+
+
+}
 /* Write CSS code below */
