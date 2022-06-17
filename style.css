@@ -8,9 +8,7 @@
     
     
 }
-::spelling-error {
-    text-decoration: none;
-  }
+
 /* body {
     background-color: #a6abad;
 } */
@@ -68,9 +66,9 @@
     background-color: #f7f7f7;
 }
 .right-main-content{
-    margin-left: 40px;
-    padding: 30px;
-    padding-top: 45px;
+    
+    padding: 2rem 3rem;
+
 }
 .right-title {
     text-transform: uppercase;
@@ -117,7 +115,7 @@
 }
 .progress-bar{
     border: 1px white solid;
-    height: 4px;
+    height: 2px;
     background-color: white;
 }
 
