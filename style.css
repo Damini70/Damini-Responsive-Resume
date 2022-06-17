@@ -24,14 +24,15 @@
 .left-content{
     padding: 1rem;
 }
-.profile-image {  
+.profile-image img{  
     display: block;  
     margin-left: auto;  
     margin-right: auto;  
-    border: 5px  white;    
+    border: 5px solid white;    
     border-radius: 30%;
     width: 60%;
-    } 
+} 
+
 .name{
     font-size: 1.2rem;
     font-weight: 700;
@@ -92,5 +93,12 @@
     border: 1px white solid;
     height: 4px;
 }
+
+/* .profile-image{
+    display: block;
+    margin: auto;
+    border: 5px solid white;
+    border-radius: 30%;
+} */
 
 /* Write CSS code below */
